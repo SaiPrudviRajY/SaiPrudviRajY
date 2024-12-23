@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Prudvi Raj Yerrapragada</h1>
-<h3 align="center">Hello! I'm Sai Prudvi Raj Yerrapragada 👋 A Data Scientist who loves diving into data to uncover meaningful insights and craft accurate predictions. Passionate about leveraging AI and analytics to solve real-world challenges. Welcome to my profile—let’s turn data into action! 🚀✨</h3>
+<h3 align="center">A Data Scientist who loves diving into data to uncover meaningful insights and craft accurate predictions. Passionate about leveraging AI and analytics to solve real-world challenges. Welcome to my profile—let’s turn data into action! 🚀✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiprudvirajy&label=Profile%20views&color=0e75b6&style=flat" alt="saiprudvirajy" /> </p>
 
