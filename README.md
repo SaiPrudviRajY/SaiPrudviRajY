@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Prudvi Raj Yerrapragada</h1>
 <h3 align="center">A Data Scientist who loves diving into data to uncover meaningful insights and craft accurate predictions. Passionate about leveraging AI and analytics to solve real-world challenges. Welcome to my profile—let’s turn data into action! 🚀✨</h3>
 
+<img width="1083" alt="Screenshot 2024-12-23 at 1 56 18 AM" src="https://github.com/user-attachments/assets/a9a1d1d5-d2f8-4892-8041-1b146d4bd8b9" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiprudvirajy&label=Profile%20views&color=0e75b6&style=flat" alt="saiprudvirajy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiprudvirajy" alt="saiprudvirajy" /></a> </p>
