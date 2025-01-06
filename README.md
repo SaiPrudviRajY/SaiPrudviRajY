@@ -16,13 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaiPrudviRajY](https://github.com/SaiPrudviRajY)
 
-- 📝 I regularly write articles on [saiprudviraj.com](saiprudviraj.com)
-
 - 💬 Ask me about **Data science, AI-driven insights, and building machine learning models.**
 
 - 📫 How to reach me **ysaiprudviraj@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/saiprudvirajy/](https://www.linkedin.com/in/saiprudvirajy/)
 
 - ⚡ Fun fact **I believe every dataset tells a story, and I love being the storyteller!**
 
